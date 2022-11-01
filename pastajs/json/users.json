@@ -1,0 +1,9 @@
+{
+  "usuarios": [
+    { "user": "Wilton", "pwd": "abc" },
+    { "user": "Maria", "pwd": "def" },
+    { "user": "Joane", "pwd": "ghi" }
+  ]
+}
+
+
